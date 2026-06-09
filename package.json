@@ -1,0 +1,16 @@
+{
+  "name": "interactive-svg-depth-motion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "AJ",
+  "license": "ISC",
+  "description": "Interactive SVG depth motion by AJ",
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "vite": "^7.3.1"
+  }
+}
